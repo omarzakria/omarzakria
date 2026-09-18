@@ -1,4 +1,4 @@
-# Hi there, I'm Omar 👋
+# Hi, I'm Omar 👋
 
 ### 🧔 About Me
 - 🤖 **Data Science & AI Engineer**
